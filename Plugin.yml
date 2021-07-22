@@ -1,0 +1,10 @@
+name: RulesUI
+main: SkullyGamingDM\RulesUI\Main
+api: 3.0.0
+version: 1.2.0
+author: SkullyGamingDM
+
+permissions:
+  rulesui.rules:
+    description: Permission to use RulesUI
+    default: true
